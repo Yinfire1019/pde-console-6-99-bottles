@@ -1,6 +1,6 @@
 # Processing Assignment 6: 99 Bottles of Beverage
 
-In this assignment, you will print the lyrics to 99 Bottles of Pop/Beer On The Wall. You will use a for loop to print the numbers in each verse. See file included in the respository for the complete lyrics. Pay particular attention to how the song ends.
+In this assignment, you will print the lyrics to 99 Bottles of Beverage On The Wall - where Beverage = either beer or pop. You will use a for loop to print the numbers in each verse. See file included in the respository for the complete lyrics. Pay particular attention to how the song ends.
 
 ## Good Coding (indenting, commenting, user-friendliness, git usage, etc.) 10%
 * Each line following an opening bracket { is indented
