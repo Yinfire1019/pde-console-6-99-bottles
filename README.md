@@ -5,6 +5,7 @@ In this assignment, you will print the lyrics to 99 Bottles of Pop/Beer On The W
 ## Good Coding (indenting, commenting, user-friendliness, git usage, etc.) 10%
 * Each line following an opening bracket { is indented
 * A comment explains for loop ```e.g. for (                   ) { // count from 100 down to 0```
+* Commit small and often
 
 ## First 70%
 Create a for loop that sings 99  bottles of Beer on the Wall. You must use a for loop to print all 99 verses and the counter variable must be used as part of the print statement, e.g. ```println( i + “ bottles of pop on the wall … “);```
