@@ -7,7 +7,7 @@ In this assignment, you will print the lyrics to 99 Bottles of Pop/Beer On The W
 * A comment explains for loop ```e.g. for (                   ) { // count from 100 down to 0```
 
 ## First 70%
-Create a for loop that sings 99  bottles of Beer on the Wall (read down further for help). You must use a for loop to print all 99 verses and the counter variable must be used as part of the print statement, e.g. ```println( i + “ bottles of pop on the wall … “);```
+Create a for loop that sings 99  bottles of Beer on the Wall. You must use a for loop to print all 99 verses and the counter variable must be used as part of the print statement, e.g. ```println( i + “ bottles of pop on the wall … “);```
 
 ## Final 20%
 Be sure the above code is working perfectly before continuing. Your new program should print appropriate lyrics based on the user’s age and drink preferences according to the instructions below.  
