@@ -1,4 +1,4 @@
-# Processing Assignment 6: 99 Bottles of Beverage
+# Processing Assignment 6: 99 Bottles
 
 In this assignment, you will print the lyrics to 99 Bottles of Beverage On The Wall - where Beverage = either beer or pop. You will use a for loop to print the numbers in each verse. See file included in the respository for the complete lyrics. Pay particular attention to how the song ends.
 
